@@ -1,6 +1,6 @@
 :root {
     --primarycolor: black; 
-    --secundarycolor blueviolet;
+    --secundarycolor: blueviolet;
     --font: 1.8rem;
     --header-size: 4rem;
 }
