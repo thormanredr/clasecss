@@ -1,0 +1,11 @@
+style.css
+
+COLAPSAR* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 350px;
+}
